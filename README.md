@@ -46,7 +46,7 @@ GD&T Builder is a powerful desktop application designed for creating and managin
 
 ## Documentation
 
-For detailed information about using GD&T Builder, please refer to the [full tutorial](Help/Tutorial/Tutorial.pdf).
+For detailed information about using GD&T Builder, please refer to the [tutorial](./Tutorial.pdf).
 
 ## License
 
